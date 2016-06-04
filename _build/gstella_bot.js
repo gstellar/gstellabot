@@ -23,4 +23,6 @@ controller.hears(['hello','hi'],['direct_message','direct_mention','mention'],fu
 });
 
 require('./teams.js');
-require('./placeBet.js');
+require('./bets.js');
+require('./stats.js');
+require('./leaderboard.js');
