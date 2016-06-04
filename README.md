@@ -1,1 +1,1 @@
-# gstellabot
+# deprecated
